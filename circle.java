@@ -17,5 +17,10 @@ public class circle {
 		float a=phi*this.radius*this.radius;
 		return a;
 	}
+	
+	public float cir()
+	{   float a=2;
+		return a;
+	}
 
 }
