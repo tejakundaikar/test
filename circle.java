@@ -22,5 +22,8 @@ public class circle {
 	{   float a=2;
 		return a;
 	}
-
+	public float cir1()
+	{   float a=2;
+		return a;
+	}
 }
